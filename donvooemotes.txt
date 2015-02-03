@@ -1,0 +1,12 @@
+{
+    "Nightcore-331": {
+        "hiding": {
+            "height": "50px",
+            "url": "https://33.media.tumblr.com/2a64287817a9e2d76c6a9d44828c1812/tumblr_n8vnrphKHx1tzlc6mo1_500.gif",
+            "width": "37.5px"
+        },
+        "bulldog": {
+            "height": "50px",
+            "url": "https://33.media.tumblr.com/d2c8354c4159407804910207dc13c9eb/tumblr_nfry5vDLPb1u4e9kpo1_500.gif",
+            "width": "28.1px"
+        },
