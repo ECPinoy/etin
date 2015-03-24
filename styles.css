@@ -1,0 +1,9 @@
+a:link {color:black}
+a:visited {color:black}
+a:hover {color:grey} 
+h1 {color:red; font-size:50}
+h2 {color:blue; font-size:45}
+nav {color:black; font-size:30; border-width:5px; border-style:ridge; border-color:red; background-color:darkred}
+navchoice {font-size:30; border-width:5px; border-style:double; background-color:lightgrey}
+content {color:white; font-size:25; border-width:2.5px; border-style:solid; border-color;lightred; background-color:#1A1A1A}
+content1 {color:white; font-size:25; border-width:2.5px; border-style:dotted; border-color;lightred; background-color:#1A1A1A}
