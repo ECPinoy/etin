@@ -28,6 +28,7 @@ content {
     border-style:solid; 
     border-color:lightred; 
     background-color:#1A1A1A
+    display:block;
 }
 
 content1 {color:white; font-size:25; border-width:2.5px; border-style:dotted; border-color;lightred; background-color:#1A1A1A}
