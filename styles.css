@@ -23,12 +23,16 @@ navchoice {font-size:30; border-width:5px; border-style:double; background-color
 content {
     display:block;
     border-width:3px;
-    border-style:dotted double;
+    border-style:double solid;
     border-color:red;
     color:white; 
     font-size:25; 
     padding:3px;
     background-color:#1A1A1A;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:200px;
+    margin-right:200px;
 }
 
 content1 {color:white; font-size:25; border-width:2.5px; border-style:dotted; border-color;lightred; background-color:#1A1A1A}
