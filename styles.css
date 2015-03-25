@@ -22,6 +22,9 @@ navchoice {font-size:30; border-width:5px; border-style:double; background-color
 
 content {
     display:block;
+    border-width:3px;
+    border-style:dotted double;
+    border-color:red;
     color:white; 
     font-size:25; 
     padding:3px;
