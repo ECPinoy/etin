@@ -31,8 +31,9 @@ content {
     background-color:#1A1A1A;
     margin-top:5px;
     margin-bottom:5px;
-    margin-left:200px;
-    margin-right:200px;
+    margin-left:25%;
+    margin-right:25%;
+    float:left;
 }
 
 content1 {color:white; font-size:25; border-width:2.5px; border-style:dotted; border-color;lightred; background-color:#1A1A1A}
