@@ -21,7 +21,8 @@ nav {color:black; font-size:30; border-width:5px; border-style:ridge; border-col
 navchoice {font-size:30; border-width:5px; border-style:double; background-color:lightgrey}
 
 content {
-    color:black; 
+    display:block;
+    color:white; 
     font-size:25; 
     padding:3px;
     background-color:#1A1A1A;
