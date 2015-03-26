@@ -21,6 +21,7 @@ nav {color:black; font-size:30; border-width:5px; border-style:ridge; border-col
 navchoice {font-size:30; border-width:5px; border-style:double; background-color:lightgrey}
 
 content {
+    float:left;
     display:block;
     border-width:3px;
     border-style:double solid;
@@ -33,7 +34,6 @@ content {
     margin-bottom:5px;
     margin-left:25%;
     margin-right:25%;
-    float:left;
 }
 
 content1 {color:white; font-size:25; border-width:2.5px; border-style:dotted; border-color;lightred; background-color:#1A1A1A}
