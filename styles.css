@@ -51,4 +51,6 @@ p1  {
 cd {
     display:block;
     width:1280px;
+    margin-left:25%;
+    margin-right:25%;
 }
