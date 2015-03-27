@@ -49,5 +49,6 @@ p1  {
 }
 
 cd {
+    display:block;
     width:1280px;
 }
