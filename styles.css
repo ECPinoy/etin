@@ -36,7 +36,13 @@ content {
     margin-left:10%;
 }
 
-content1 {color:white; font-size:25; border-width:2.5px; border-style:dotted; border-color;lightred; background-color:#1A1A1A}
+content1 {
+    color:white; 
+    font-size:25; 
+    border-width:2.5px; 
+    border-style:dotted; 
+    border-color:aqua; 
+    background-color:#1A1A1A}
 
 p1  {
     display:block;
