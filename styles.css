@@ -59,3 +59,14 @@ cd {
     width:1280px;
     margin:0 auto;
 }
+
+vg1 {
+    display:block;
+    width:100%;
+    max-width:900;
+    margin:0 auto;
+    background-color:#F8E0E6;
+    border-style:double solid;
+    border-width:5px;
+    
+}
