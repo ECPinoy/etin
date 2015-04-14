@@ -72,3 +72,13 @@ vg1 {
     border-radius:6px;
     
 }
+
+vgc1    {
+    display:block;
+    float:left;
+}
+
+vgc2    {
+    display:block;
+    float:right;
+}
