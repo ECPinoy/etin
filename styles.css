@@ -66,6 +66,7 @@ vg1 {
     max-width:900;
     margin:0 auto;
     background-color:#F8E0E6;
+    border-color:white;
     border-style:double solid;
     border-width:5px;
     border-radius:6px;
