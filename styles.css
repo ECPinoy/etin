@@ -67,10 +67,8 @@ vg1 {
     margin:0 auto;
     border-bottom-color:gray;
     border-bottom-style:solid;
-    background-color:#F8E0E6;
-    border-color:white;
-    border-style:double solid;
-    border-width:5px;
+    border-bottom-width:6px;
+    background-color:white;
     border-radius:6px;
 
     
@@ -83,5 +81,6 @@ vgc1    {
 
 vgc2    {
     display:block;
+    width:500px;
     float:right;
 }
