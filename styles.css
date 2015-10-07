@@ -6,7 +6,9 @@ a:visited {
     color:black
 }
 
-a:hover {color:grey} 
+a:hover {
+    color:grey
+} 
 h1 {
     color:red; 
     font-size:50
@@ -16,9 +18,22 @@ h2 {
     color:blue; 
 }
 
-nav {color:black; font-size:30; border-width:5px; border-style:ridge; border-color:red; background-color:darkred; display:inline-block;}
+nav {
+    color:black; 
+    font-size:30; 
+    border-width:5px; 
+    border-style:ridge; 
+    border-color:red; 
+    background-color:darkred; 
+    display:inline-block;
+}
 
-navchoice {font-size:30; border-width:5px; border-style:double; background-color:lightgrey}
+navchoice {
+    font-size:30; 
+    border-width:5px; 
+    border-style:double; 
+    background-color:lightgrey
+}
 
 content {
     float:left;
@@ -74,13 +89,13 @@ vg1 {
     
 }
 
-vgc1    {
+vgc1{
     display:block;
     width:400px;
     float:left;
 }
 
-vgc2    {
+vgc2{
     display:block;
     width:400px;
     float:right;
