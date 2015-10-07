@@ -1,5 +1,4 @@
 etin
 ====
 
-This is where I mess around.
-If you take this, I don't really care, to be honest. I probably took most of this from other people too. hehe.
+this is just for my website, just hidden kinda nicely if you ask me
