@@ -77,13 +77,11 @@ vg1 {
 vgc1    {
     display:block;
     width:400px;
-    padding:50px;
     float:left;
 }
 
 vgc2    {
     display:block;
     width:400px;
-    padding:50px;
     float:right;
 }
