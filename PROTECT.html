@@ -1,13 +1,13 @@
 <SCRIPT>
 function passWord() {
 var testV = 1;
-var pass1 = prompt('Please Enter Your Password',' ');
+var pass1 = prompt('Please enter the password. (This is to protect my identity)',' ');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
 if (pass1.toLowerCase() == "swag") {
-alert('You Got it Right!');
-window.open('www.wikihow.com');
+alert('Oh, so I did give you permission. On you go.');
+window.open('resume');
 break;
 } 
 testV+=1;
